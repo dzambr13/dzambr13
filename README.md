@@ -1,18 +1,12 @@
-### Hello, my name is Dave Zambrano!
-
----
+# Hello, my name is Dave Zambrano!
 
 ## Full Stack Developer
-
----
 
 I am a General Assembly graduate from the Software Engineering Immersive program with a non-coding background in Dietetics, Master of Science! Being exposed to computer sciences constantly, with strong influence from my peers in university, have influenced me to pursue this newfound career of mine. Currently, I am integrating my recently learned skills into building projects and searching for a career opportunity in technology. Professional life aside, I dabble in kinesiology, e-sports, photography, and painting/sketching! 
 
 * 🌍  I'm based in Phoenix, Arizona
 * 🧠  I'm learning Django and Python
 * ✉️  Contact me at [davezambr@gmail.com](mailto:davezambr@gmail.com)
-
----
 
 ## Skills 
 
@@ -31,8 +25,6 @@ I am a General Assembly graduate from the Software Engineering Immersive program
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
-
---- 
 
 ## Socials 
 
