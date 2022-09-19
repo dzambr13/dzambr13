@@ -7,6 +7,7 @@ I am a General Assembly graduate from the Software Engineering Immersive program
 * 🌍  I'm based in Phoenix, Arizona
 * 🧠  I'm learning Django and Python
 * ✉️  Contact me at [davezambr@gmail.com](mailto:davezambr@gmail.com)
+* ⚡  Project's can be found on my LinkedIn under my socials!
 
 ## Skills 
 
