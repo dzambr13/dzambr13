@@ -8,6 +8,10 @@
 
 I am a General Assembly graduate from the Software Engineering Immersive program with a non-coding background in Dietetics, Master of Science! Being exposed to computer sciences constantly, with strong influence from my peers in university, have influenced me to pursue this newfound career of mine. Currently, I am integrating my recently learned skills into building projects and searching for a career opportunity in technology. Professional life aside, I dabble in kinesiology, e-sports, photography, and painting/sketching! 
 
+* 🌍  I'm based in Phoenix, Arizona
+* 🧠  I'm learning Django and Python
+* ✉️  Contact me at [davezambr@gmail.com](mailto:davezambr@gmail.com)
+
 ---
 
 ## Skills 
