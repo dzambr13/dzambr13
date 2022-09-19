@@ -6,7 +6,7 @@
 
 ---
 
-
+I am a General Assembly graduate from the Software Engineering Immersive program with a non-coding background in Dietetics, Master of Science! Being exposed to computer sciences constantly, with strong influence from my peers in university, have influenced me to pursue this newfound career of mine. Currently, I am integrating my recently learned skills into building projects and searching for a career opportunity in technology. Professional life aside, I dabble in kinesiology, e-sports, photography, and painting/sketching! 
 
 ---
 
@@ -30,3 +30,6 @@
 
 --- 
 
+## Socials 
+
+<p align="left"> <a href="https://github.com/dzambr13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/davezambr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
